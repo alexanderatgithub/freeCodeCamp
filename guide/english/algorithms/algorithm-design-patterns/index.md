@@ -7,17 +7,17 @@ In software engineering, a design pattern is a general repeatable solution to a 
 
 Design patterns can speed up the development process by providing tested, proven development paradigms.
 
-This patterns are divided in three major categories:
+These patterns are divided in three major categories:
 
-### Creational patterns
+1. Creational patterns
 
 These are design patterns that deal with object creation mechanisms, trying to create objects in a manner suitable to the situation. The basic form of object creation could result in design problems or in added complexity to the design. Creational design patterns solve this problem by somehow controlling this object creation.
 
-### Structural patterns 
+2. Structural patterns 
 
 These are design patterns that ease the design by identifying a simple way to realize relationships between entities.
 
-### Behavioral patterns
+3. Behavioral patterns
 
 These are design patterns that identify common communication patterns between objects and realize these patterns. By doing so, these patterns increase flexibility in carrying out this communication.
 
